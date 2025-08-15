@@ -50,14 +50,13 @@ Modify any settings or configuration files inside the PROJECT folder (e.g., data
 
 python PROJECT/app.py
 (Replace app.py with the actual script filename.)
-
-## Open your browser and navigate to http://localhost:5000 (or the configured port) to access the system.
+Open your browser and navigate to http://localhost:5000 (or the configured port) to access the system.
 
 ## Usage
 
-### Add, update, and retrieve patient, doctor, and appointment records.
-### Perform basic hospital management tasks through a user-friendly interface.
-### Customize UI and functionalities by editing HTML, CSS, or Python files as required.
+Add, update, and retrieve patient, doctor, and appointment records.
+Perform basic hospital management tasks through a user-friendly interface.
+Customize UI and functionalities by editing HTML, CSS, or Python files as required.
 
 ## Contributing
 
